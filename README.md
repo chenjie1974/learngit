@@ -13,3 +13,6 @@ Git教程 → http://t.cn/zQ6LFwE
 2. 使用英文文件名；(Use English file name)
 
 3. 扩展名为`.txt`或`.md`。(Refer .txt and .md)
+"Add Line" 
+"Add Line2" 
+"Add Line3" 
